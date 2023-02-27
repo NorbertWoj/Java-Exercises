@@ -1,4 +1,5 @@
-/Inheritance/out/
-/*.iml
-/Inheritance/*.iml
+/*/*.iml
 /.idea/
+/.../*.iml
+/*.iml
+/out/
